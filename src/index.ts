@@ -1,6 +1,4 @@
-import { Company } from './classes/Company';
-import { Map } from './classes/Map';
-import { User } from './classes/User';
+import { Company, User, Map } from './classes';
 
 const mapDivName = 'map';
 
